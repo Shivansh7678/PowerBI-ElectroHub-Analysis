@@ -26,11 +26,11 @@ This dashboard provides key insights into:
 ### 📈 2. Sales Trends  
 ![Sales Trends](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%202.png)  
 
-### 📦 3. Product Performance  
-![Product Performance](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%203.png)  
+### 📦 3. Comparision Sales/Profit/Quantity  
+![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%203.png)  
 
-### 🌍 4. Regional Sales  
-![Regional Sales](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%204.png)  
+### 🌍 4. Comparision Sales/Profit/Quantity  
+![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%204.png)  
 
 ### 🛒 5. Customer Insights  
 ![Customer Insights](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%205.png)  
