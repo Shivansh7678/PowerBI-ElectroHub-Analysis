@@ -21,10 +21,10 @@ This dashboard provides key insights into:
 ## 📷 **Power BI Dashboard Previews**  
 
 ### 📊 1. Overview Dashboard  
-![Overview Dashboard](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%201.png?raw=true)  
+![Overview Dashboard](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%201.png?raw=true)  
 
 ### 📈 2. Sales Trends  
-![Sales Trends]([https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%202.png](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%202.png?raw=true))  
+![Sales Trends](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%202.png?raw=true)  
 
 ### 📦 3. Comparision Sales/Profit/Quantity  
 ![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%203.png)  
