@@ -27,13 +27,13 @@ This dashboard provides key insights into:
 ![Sales Trends](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%202.png?raw=true)  
 
 ### 📦 3. Comparision Sales/Profit/Quantity  
-![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%203.png)  
+![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%203.png?raw=true)  
 
 ### 🌍 4. Comparision Sales/Profit/Quantity  
-![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%204.png)  
+![Comparision Sales/Profit/Quantity](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%204.png?raw=true)  
 
 ### 🛒 5. Customer Insights  
-![Customer Insights](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%205.png)  
+![Customer Insights](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Screenshots/Dashboard%20Screenshot%205.png?raw=true)  
 
 ---
 
