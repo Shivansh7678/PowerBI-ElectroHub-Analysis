@@ -1,27 +1,48 @@
-# Power BI Sales Analysis - ElectroHub 🔥  
+# 🚀 Power BI Sales Analysis - ElectroHub  
 
-## 📌 Project Overview  
-This Power BI report analyzes **ElectroHub's** sales performance, profit trends, and customer purchasing behavior. It helps visualize key business insights and supports decision-making.
+📊 This Power BI project analyzes **ElectroHub's sales performance**, profit trends, and customer insights.  
 
-## 📊 Key Insights & Features  
-✔️ **Top/Bottom 5 products** by Sales, Profit & Quantity Sold.  
-✔️ **Sales trends over time** (Daily, Monthly, Quarterly, Annually).  
-✔️ **Sales vs Profit Relationship** visualization.  
-✔️ **Compare two time periods** for sales, profit & quantity.  
-✔️ **Average discount per category**.  
-✔️ **Total number of orders** overview.  
-✔️ **Interactive Filters:** Filter sales by Product, Date, Customer ID, and Promotion Categories.  
-✔️ **Sales by different cities**.
+## 🔥 **Project Overview**  
+This dashboard provides key insights into:  
+✔ **Top/Bottom 5 products** by Sales, Profit & Quantity Sold  
+✔ **Sales Trends** over time (YoY, MoM, QoQ)  
+✔ **Customer Purchase Behavior & Average Order Value**  
+✔ **Region-wise Sales Performance**  
 
-## 📂 Files Included  
-- `Project.pbix` → Power BI Report  
-- `Store Data.xlsx` → Dataset  
-- `Power BI Project 1 Requirements.pptx` → Project Guidelines  
-
-## 🚀 How to Use  
-1. Download the `.pbix` file.  
-2. Open it in **Power BI Desktop**.  
-3. Explore different dashboards & insights!  
+## 📌 **Key Performance Indicators (KPIs)**  
+1️⃣ **Total Sales & Revenue Growth**  
+2️⃣ **Best & Worst Performing Products**  
+3️⃣ **Customer Purchase Behavior & AOV**  
+4️⃣ **Sales by Region & City**  
+5️⃣ **Year-over-Year & Month-over-Month Growth**  
 
 ---
-🔗 **GitHub Repository:** [YOUR_GITHUB_LINK_HERE]
+
+## 📷 **Power BI Dashboard Previews**  
+
+### 📊 1. Overview Dashboard  
+![Overview Dashboard](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%201.png?raw=true)  
+
+### 📈 2. Sales Trends  
+![Sales Trends](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%202.png)  
+
+### 📦 3. Product Performance  
+![Product Performance](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%203.png)  
+
+### 🌍 4. Regional Sales  
+![Regional Sales](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%204.png)  
+
+### 🛒 5. Customer Insights  
+![Customer Insights](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis/blob/main/Dashboard%20Screenshot%205.png)  
+
+---
+
+## 📥 **How to Use**  
+1️⃣ Download the `Project.pbix` file.  
+2️⃣ Open it in **Power BI Desktop**.  
+3️⃣ Explore the dashboards & insights!  
+
+## 🔗 **GitHub Repository:**  
+[https://github.com/Shivansh7678/PowerBI-Sales-Dashboard](https://github.com/Shivansh7678/PowerBI-ElectroHub-Analysis)  
+
+🔥 **Built with Power BI & DAX for Data Analytics & Business Intelligence.** 🚀  
